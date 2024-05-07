@@ -8,5 +8,7 @@ Team Members: Varun Parekh
 Link to sites:
 
 https://incogowl.github.io/Lab5_Starter/
+
 https://incogowl.github.io/Lab5_Starter/expose.html
+
 https://incogowl.github.io/Lab5_Starter/explore.html
